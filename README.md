@@ -3,8 +3,8 @@ A program that allows to control money expenses.
 
 To run this program, you need to download the following installations to your PC:
 
-`#0969DA [.NET Console App](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
-`#0969DA [SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+`#0969DA` [.NET Console App](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+`#0969DA` [SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 After downloading the programs, you need to run the ControlExpense.exe file located on the path ControlExpense->ControlExpense->bin->Debug->net6.0.
 After launching the program, you need to log in or sign up in the application.
